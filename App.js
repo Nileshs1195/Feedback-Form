@@ -87,6 +87,7 @@ export default class App extends Component {
   render() {  
     return (    
       <View>    
+	  // This is a downloaded project
   <Text style={stylesText.wordBold,stylesText.italicText}>{"\n\t"}Mobiliya Quest</Text>  
     <Text style={styles.welcome}>Hi Nilesh,</Text>    
      <Text style={stylesText.wordBold, stylesText.capitalLetter,stylesText.textcolor}>Complete the Technical Survey. {"\n"}</Text>
